@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FragmentNavigation</string>
+    <string name="tv_home_fragment_title">Home Fragment</string>"
+    <string name="tv_second_fragment_title">Second Fragment</string>
+    <string name="et_name">Nombre</string>
+    <string name="et_nota1">Nota 1</string>
+    <string name="et_nota2">Nota 2</string>
+    <string name="btn_enviar_datos">Enviar datos</string>"
+    <string name="btn_calcular_nota">Calcular Nota</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
